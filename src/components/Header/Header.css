@@ -1,0 +1,29 @@
+.header img {
+	width: 300px;
+}
+
+.header {
+	text-align: center;
+}
+
+nav {
+	background-color: #000;
+	margin-top: 10px;
+}
+
+nav a {
+	text-decoration: none;
+	color: #fff;
+	padding: 15px;
+	display: inline-block;
+	font-size: 18px;
+}
+
+nav a:first-child {
+	margin-left: 20px;
+}
+
+nav a:hover {
+	background: #d3d3d3;
+	color: #000;
+}

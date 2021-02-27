@@ -1,0 +1,20 @@
+.product{
+	display: flex;
+	border-bottom: 1px solid lightgray;
+	padding: 20px;
+}
+.product-image{
+	margin-right: 30px;
+}
+.product-name h3{
+	font-weight: 400px;
+	color: blue;
+}
+p{
+	font-weight: 500;
+}
+.main-btn{
+	background: #f0c14b;
+	padding: 8px 80px;
+	border-radius: 5px;
+}
